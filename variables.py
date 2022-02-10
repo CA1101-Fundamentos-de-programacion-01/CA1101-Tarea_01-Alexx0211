@@ -1,6 +1,6 @@
-monedas_magicas = 20
+monedas_encontradas = 20
 
-monedas_encontradas = 10
+monedas_magicas = 10
 
 monedas_robadas = 3
 
