@@ -5,4 +5,4 @@ monedas_magicas = 10
 monedas_robadas = 3
 
 
-resultado = monedas_magicas + monedas_encotradas  * 365 - monedas_robadas * 52
+resultado = monedas_encontradas + monedas_magicas  * 365 - monedas_robadas * 52
